@@ -1,3 +1,11 @@
+# Compound Interest Calculator
+
+## Libraries used in this project
+
+- styled-components, for creating components
+- formik, for creating forms 
+- yup, for forms validations
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
